@@ -43,8 +43,8 @@
     "explanationcard": {
       "person": "person",
       "person_plural": "people",
-      "multiple_suffix": "x your weekly risk budget",
-      "percentage_suffix": "% of your weekly risk budget",
+      "multiple_suffix": "{{multiple}}x your weekly risk budget",
+      "percentage_suffix": "{{percentage}} of your weekly risk budget",
       "details_header_closed": "Show calculation details",
       "details_header_open": "Hide calculation details",
       "details_overview_header": "Calculation",
