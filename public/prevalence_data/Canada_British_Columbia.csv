@@ -1,0 +1,7 @@
+Name,Population,Cases in past week,Reported prevalence,Underreporting factor,Delay factor,Estimated prevalence
+Entire state,5110917,1047,0.000205,2.2516,2.0,0.000923
+Fraser,1902586,230,0.000121,2.2516,1.345,0.000368
+Interior,805216,596,0.000741,2.2516,2.0,0.003339
+Island,846030,57,6.9e-05,2.2516,2.0,0.000309
+Northern,298068,22,7.7e-05,2.2516,2.0,0.000347
+Vancouver Coastal,1219436,138,0.000114,2.2516,1.5,0.000385
