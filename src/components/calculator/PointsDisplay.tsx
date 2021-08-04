@@ -131,9 +131,8 @@ export default function PointsDisplay(props: {
     if (name === 'moderate') return t('calculator.category_moderate')
     if (name === 'high') return t('calculator.category_high')
     if (name === 'very-high') return t('calculator.category_very_high')
-    if (name === 'dangerously-high')
-      return t('calculator.category_dangerously_high')
-    if (name === 'extreme') return t('calculator.category_extreme')
+    if (name === 'dangerously-high' || name === 'extreme')
+      return t('calculator.category_extreme')
     return 'Undefined'
   }
   return (

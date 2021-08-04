@@ -109,7 +109,7 @@
     "category_high": "High",
     "category_very_high": "Very High",
     "category_dangerously_high": "Dangerously high",
-    "category_extreme": "Extreme",
+    "category_extreme": "Extremely High",
     "category_postfix": "Risk",
     "prevalence": {
       "reported_prevalence": "Reported prevalence",
@@ -169,7 +169,7 @@
     "risk_tolerance_3_percent_label": "Low Caution Budget",
     "risk_tolerance_3_percent_explanation": "3% chance of COVID per year (600 microCOVIDs per week). If you are healthy and prefer to live a riskier lifestyle AND everyone you live with / share air with is willing to do the same.",
     "risk_tolerance_1_percent_label": "Standard Caution Budget",
-    "risk_tolerance_1_percent_explanation": "1% chance of COVID per year (200 microCOVIDs per week) Suggested for healthy people NOT in close contact with more vulnerable people.",
+    "risk_tolerance_1_percent_explanation": "1% chance of COVID per year (200 microCOVIDs per week). Suggested for healthy unvaccinated or partially vaccinated people not in close contact with more vulnerable unvaccinated people.",
     "risk_tolerance_point1_percent_label": "High Caution Budget",
     "risk_tolerance_point1_percent_explanation": "0.1% chance of COVID per year (20 microCOVIDs per week) Suggested if you or your close contacts are more vulnerable to COVID.",
     "intro": {
@@ -197,7 +197,9 @@
       "full_changelog": "see all updates…",
       "delta_numbers": "<0>July 26th, 2021:</0> Updated for the Delta variant. Risks have increased substantially, including for vaccinated people. <2>Technical details here.</2>"
     },
-    "no_vaccine_prevalence": "Since our system doesn't yet have vaccine data for your region, we aren't able to provide a way for you to adjust your score based on whether or not the person you're seeing is vaccinated."
+    "no_vaccine_prevalence": "Since our system doesn't yet have vaccine data for your region, we aren't able to provide a way for you to adjust your score based on whether or not the person you're seeing is vaccinated.",
+    "risk_tolerance_2_percent_label": "Vaccinated Caution Budget",
+    "risk_tolerance_2_percent_explanation": "2% chance of COVID per year (400 microCOVIDs per week). Suggested for healthy vaccinated people NOT in close contact with more vulnerable unvaccinated people."
   },
   "per week": "per week",
   "each time you do it": "each time you do it",
